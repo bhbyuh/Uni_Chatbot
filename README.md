@@ -1,4 +1,4 @@
-# RAG Implementation with Pinecone on University Data
+# University Chatbot
 
 This repository demonstrates the implementation of a **Retrieval-Augmented Generation (RAG)** system using **Pinecone** as the vector database for storing and retrieving university data. The system scrapes the entire university website, stores the data in a Pinecone vector database, and provides a **Streamlit app** interface to interact with a **Phi-3 LLM** for querying the data.
 
